@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upload-files-progress/static/css/main.52355d63.css",
+    "main.js": "/upload-files-progress/static/js/main.1905e17c.js",
+    "index.html": "/upload-files-progress/index.html",
+    "main.52355d63.css.map": "/upload-files-progress/static/css/main.52355d63.css.map",
+    "main.1905e17c.js.map": "/upload-files-progress/static/js/main.1905e17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52355d63.css",
+    "static/js/main.1905e17c.js"
+  ]
+}
